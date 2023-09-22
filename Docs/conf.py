@@ -15,7 +15,6 @@ author = '盐渍海蛞蝓'
 
 extensions = [
     'myst_parser',
-    'sphinx_sitemap',
     'sphinx_copybutton',
     "sphinx-favicon",
     'sphinx_design'
