@@ -40,3 +40,5 @@ Thumbs.db
 # Editor backup files #
 #######################
 *~
+Docs/_build
+Docs/hyml
