@@ -10,10 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build HTML
-      uses: ammaraskar/sphinx-action@master
+      uses: sphinx-notes/pages@v3
       with:
-        docs-folder: "Docs"
-        build-command: make html
+        publish: false
     - name: Upload artifacts
       uses: actions/upload-artifact@v3
       with:
