@@ -33,7 +33,7 @@ language = 'zh-CN'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-
+html_baseurl = 'https://wiki.seaslug.moe/'
 html_theme = "shibuya"
 html_static_path = ['_static']
 html_logo = "_static/SeaSlug.png"

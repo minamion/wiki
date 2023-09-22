@@ -1,5 +1,5 @@
 
-{figure} _static/logo-big.svg
+{figure} _static/default_d_h_mw2000.gif
 
  
 # **欢迎来到罗德岛工程部和海蛞蝓杂货铺的产品文档。**
@@ -25,7 +25,7 @@
 ### 罗德岛工程部：
 #### [制品1名称]
 
-![制品1图像](制品1图像URL)
+![制品1图像](_static/default_d_h_mw2000.gif)
 
 [制品1描述]
 
@@ -33,7 +33,7 @@
 
 #### [制品2名称]
 
-![制品2图像](制品2图像URL)
+![制品2图像](_static/default_d_h_mw2000.gif)
 
 [制品2描述]
 
@@ -42,7 +42,7 @@
 ### 海蛞蝓杂货铺：
 #### [制品1名称]
 
-![制品1图像](制品1图像URL)
+![制品1图像](_static/default_d_h_mw2000.gif)
 
 [制品1描述]
 
@@ -50,7 +50,7 @@
 
 #### [制品2名称]
 
-![制品2图像](制品2图像URL)
+![制品2图像](_static/default_d_h_mw2000.gif)
 
 [制品2描述]
 
@@ -70,15 +70,14 @@
 :hidden:
 :caption: 社团介绍
 首页 <https://wiki.seaslug.moe>
-pages/emulator
-pages/tools
+
 pages/supports
 ```
 
 ```{toctree}
 :hidden:
 :caption: 罗德岛工程部项目
-community/index
+
 community/NekoKC/index
 community/ESP32-TNC/index
 community/Mifi/index
@@ -88,7 +87,7 @@ community/Arknights_USB_stand/index
 ```{toctree}
 :hidden:
 :caption: 海蛞蝓杂货铺项目
-products/index
+
 products/IDcard/index
 products/IDcard_MK2/index
 products/C2C_FTK/index
