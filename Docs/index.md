@@ -78,18 +78,18 @@ pages/supports
 :hidden:
 :caption: 罗德岛工程部项目
 
-community/NekoKC/index
-community/ESP32-TNC/index
-community/Mifi/index
-community/Arknights_USB_stand/index
+NekoKC/index
+ESP32-TNC/index
+Mifi/index
+Arknights_USB_stand/index
 ```
 
 ```{toctree}
 :hidden:
 :caption: 海蛞蝓杂货铺项目
 
-products/IDcard/index
-products/IDcard_MK2/index
-products/C2C_FTK/index
+IDcard/index
+IDcard_MK2/index
+C2C_FTK/index
 ```
 
