@@ -1,1 +1,0 @@
-# C2C 电缆快速测试工具-C2C FTK(Cable Fast Test Toolkit)
